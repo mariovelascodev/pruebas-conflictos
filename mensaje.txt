@@ -1,8 +1,8 @@
 Hola mundo
 
-linea1
-linea30
+linea104
+linea305
 
 lineaX
 lineaY
-mas codigo en js
+mas codigo en java
