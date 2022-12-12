@@ -1,7 +1,7 @@
-Hola mundo bonito
+Hola mundo de piruleta
 
-linea1
+linea1 añadimos mas texto
 linea3
 
-linea11
-linea22
+lineaX
+lineaY
