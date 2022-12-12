@@ -1,7 +1,7 @@
 Hola mundo
 
-lineaZ
-linea3
+linea10
+linea30
 
 lineaX
 lineaY
