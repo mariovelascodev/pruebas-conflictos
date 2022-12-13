@@ -1,8 +1,9 @@
 Hola mundo, ¿que tal?
 
 lineaZ
-linea35
+linea3533
 
-lineaXZ
-lineaY
+lineaX
+lineaYYYYY
+
 Añado mas lineas de prueba al fichero del repositorio
