@@ -1,8 +1,8 @@
-Hola mundo
+Hola mundo, ¿que tal?
 
 lineaZ
 linea35
 
-lineaX
+lineaXZ
 lineaY
 Añado mas lineas de prueba al fichero del repositorio
